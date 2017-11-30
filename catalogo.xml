@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/1HG0rCw.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://github.com/jarl1970/jarl/blob/master/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/jarl1970/jarl/master/peliculas.xml</externallink>
 </item>
  
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://github.com/jarl1970/jarl/blob/master/series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/jarl1970/jarl/master/series.xml</externallink>
 </item>
  
 <item>
